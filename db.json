@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "aryan 2",
+      "email": "aryan@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "akash",
+      "email": "akash@gmail.com",
+      "phone": "98786756564",
+      "id": 2
+    },
+    {
+      "name": "suraj",
+      "username": "suraj123",
+      "email": "suraj@gmail.com",
+      "phone": "9956976967",
+      "id": 3
+    },
+    {
+      "name": "rakesh",
+      "email": "rakesh@gmail.com",
+      "phone": "9579579575",
+      "id": 4
+    },
+    {
+      "name": "vikas",
+      "email": "vikas@gmail.com",
+      "phone": "444444444444",
+      "id": 5
+    },
+    {
+      "name": "Phan Vượng",
+      "email": "anhnothoinay@gmail.com",
+      "phone": "0986977365",
+      "id": 6
+    }
+  ]
+}
